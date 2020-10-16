@@ -1,3 +1,1 @@
 # preprod
-
-Tyagig.tech
